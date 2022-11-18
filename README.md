@@ -1,2 +1,4 @@
 # python-ncp-api-client
-NAVER Cloud Platform API Client.
+Super simple NAVER Cloud Platform API Client.
+
+
